@@ -29,8 +29,8 @@ int main()
 
     vector<vector<int>> triangle{{1},
                                  {2, 3},
-                                 {3, 6, 7},g
-                                 {8, 9, 6, 10}};
+                                 {3, 6, 7},
+                                 g{8, 9, 6, 10}};
 
     int n = triangle.size();
 
